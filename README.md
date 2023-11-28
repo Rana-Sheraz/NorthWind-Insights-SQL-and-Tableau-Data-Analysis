@@ -1,1 +1,2 @@
-# NorthWind-Insights-SQL-and-Tableau-Data-Analysis
+# NorthWind Insights: SQL and Tableau Data Analysis
+This Northwind dataset analysis project derives critical metrics to uncover insights into business operations, including Product Performance Ranking for product success, Customer Segmentation through RFM Analysis for targeted marketing, Churn and Retention Rates for gauging customer loyalty, Critical Inventory Status for supply chain optimization, and evaluations of Employee and Shipper Performance. These metrics collectively offer a concise yet thorough understanding of business operations, facilitating strategic decisions and improving overall performance.
